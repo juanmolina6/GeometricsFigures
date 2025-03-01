@@ -1,0 +1,5 @@
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Figures.AssemblyInfoInputs.cache
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Figures.AssemblyInfo.cs
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Figures.csproj.CoreCompileInputs.cache
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Figures.sourcelink.json

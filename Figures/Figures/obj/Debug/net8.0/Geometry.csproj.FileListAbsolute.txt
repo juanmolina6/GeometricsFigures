@@ -1,0 +1,15 @@
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Geometry.AssemblyInfoInputs.cache
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Geometry.AssemblyInfo.cs
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Geometry.csproj.CoreCompileInputs.cache
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Geometry.sourcelink.json
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\bin\Debug\net8.0\Geometry.exe
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\bin\Debug\net8.0\Geometry.deps.json
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\bin\Debug\net8.0\Geometry.runtimeconfig.json
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\bin\Debug\net8.0\Geometry.dll
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\bin\Debug\net8.0\Geometry.pdb
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Geometry.dll
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\refint\Geometry.dll
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Geometry.pdb
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\Geometry.genruntimeconfig.cache
+C:\Projects EdD\GeometricsFigures\Figures\Figures\Figures\obj\Debug\net8.0\ref\Geometry.dll
